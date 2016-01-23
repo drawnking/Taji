@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="mybar">
+        <attr format="string" name="bottomposition" />
+        <attr format="string" name="topposition" />
+    </declare-styleable>
+   
+</resources>
