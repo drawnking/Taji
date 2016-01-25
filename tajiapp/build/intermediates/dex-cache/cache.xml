@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\libs\AMap_Location_v2.3.0_20160112.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bfe17aa93c71a6973a53fcbaf7bfe2f3a1859dcf">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\build\intermediates\pre-dexed\debug\AMap_Location_v2.3.0_20160112_d97667a2721dcc97e33c19856b9bde9d5e76dec4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\libs\volly-1.0.11.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c248dd8e8c23a3e77a29613a2872be50b680d39">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\build\intermediates\pre-dexed\debug\volly-1.0.11_3ed60405334797a49b60fa4d1bb350cd5ecd422f.jar" />
+    </item>
+    <item
+        jar="D:\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_160cef38d65cc2d494c5e2a6ca9d82f92d3dbe12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\tajiapp\app\build\intermediates\pre-dexed\debug\android-support-v4_7251ddf64cd4b02fc4f8ce7f92b173745decdf1b.jar" />
+    </item>
+
+</items>

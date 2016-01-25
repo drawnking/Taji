@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgcolor_bar_bottom">#FF453855</color>
+    <color name="bgcolor_bar_bottom_center">#FF915A99</color>
+    <color name="bgcolor_bar_first">#FF543C69</color>
+    <color name="bgcolor_bar_second">#FF412F52</color>
+    <color name="textcolor_bar_first_select">#FF18FBCD</color>
+    <color name="textcolor_bar_first_unselect">#FFCCCCCA</color>
+    <color name="textcolor_bar_second_select">#FF28D5B5</color>
+    <color name="textcolor_bar_second_unselect">#FFA666B0</color>
+    <declare-styleable name="mybar"><attr format="string" name="bottomposition"/><attr format="string" name="topposition"/></declare-styleable>
+    <dimen name="textsize_bar_first">20sp</dimen>
+    <dimen name="textsize_bar_second">15sp</dimen>
+    <string name="app_name">Taji</string>
+    <string name="hello">Hello World, TajiActivity!</string>
+</resources>
