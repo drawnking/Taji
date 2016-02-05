@@ -4,8 +4,11 @@
     <string name="app_name">Taji</string>
     <string name="hello">Hello World, TajiActivity!</string>
 
+    <dimen name="topbar_height">50dp</dimen>
     <dimen name="textsize_bar_first">20sp</dimen>
     <dimen name="textsize_bar_second">15sp</dimen>
+    <dimen name="home_hot_gridview_text_height">22dp</dimen>
+    <dimen name="home_hot_gridview_text_height_twice">44dp</dimen>
 
     <color name="textcolor_bar_first_select">#FF18FBCD</color>
     <color name="textcolor_bar_first_unselect">#FFCCCCCA</color>
@@ -15,5 +18,7 @@
     <color name="bgcolor_bar_second">#FF412F52</color>
     <color name="bgcolor_bar_bottom">#FF453855</color>
     <color name="bgcolor_bar_bottom_center">#FF915A99</color>
+
+    
 
 </resources>

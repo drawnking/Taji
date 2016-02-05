@@ -13,11 +13,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 644,
+                        "startOffset": 820,
                         "endColumn": 54,
-                        "endOffset": 694
+                        "endOffset": 870
                     }
                 }
             },
@@ -32,11 +32,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 700,
+                        "startOffset": 876,
                         "endColumn": 61,
-                        "endOffset": 757
+                        "endOffset": 933
                     }
                 }
             },
@@ -51,11 +51,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 401,
+                        "startOffset": 577,
                         "endColumn": 53,
-                        "endOffset": 450
+                        "endOffset": 626
                     }
                 }
             },
@@ -70,11 +70,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 588,
+                        "startOffset": 764,
                         "endColumn": 54,
-                        "endOffset": 638
+                        "endOffset": 814
                     }
                 }
             },
@@ -89,11 +89,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 271,
+                        "startOffset": 447,
                         "endColumn": 62,
-                        "endOffset": 329
+                        "endOffset": 505
                     }
                 }
             },
@@ -108,11 +108,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 335,
+                        "startOffset": 511,
                         "endColumn": 64,
-                        "endOffset": 395
+                        "endOffset": 571
                     }
                 }
             },
@@ -127,11 +127,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 456,
+                        "startOffset": 632,
                         "endColumn": 63,
-                        "endOffset": 515
+                        "endOffset": 691
                     }
                 }
             },
@@ -146,11 +146,11 @@
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 521,
+                        "startOffset": 697,
                         "endColumn": 65,
-                        "endOffset": 582
+                        "endOffset": 758
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 11,
                     "startColumn": 4,
                     "startOffset": 683,
-                    "endColumn": 49,
-                    "endOffset": 728
+                    "endColumn": 60,
+                    "endOffset": 739
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 166,
-                        "endColumn": 49,
-                        "endOffset": 211
+                        "startOffset": 315,
+                        "endColumn": 60,
+                        "endOffset": 371
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 733,
-                    "endColumn": 50,
-                    "endOffset": 779
+                    "startOffset": 744,
+                    "endColumn": 66,
+                    "endOffset": 806
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 217,
-                        "endColumn": 50,
-                        "endOffset": 263
+                        "startOffset": 377,
+                        "endColumn": 66,
+                        "endOffset": 439
                     }
                 }
             },
@@ -196,9 +196,66 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 784,
+                    "startOffset": 811,
+                    "endColumn": 49,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 49,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 50,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 50,
+                        "endOffset": 309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 44,
+                    "endOffset": 952
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 44,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 957,
                     "endColumn": 41,
-                    "endOffset": 821
+                    "endOffset": 994
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
@@ -213,11 +270,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 826,
+                    "startOffset": 999,
                     "endColumn": 60,
-                    "endOffset": 882
+                    "endOffset": 1055
                 },
                 "from": {
                     "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\strings.xml",
@@ -227,6 +284,27 @@
                         "startOffset": 102,
                         "endColumn": 60,
                         "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 59,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 402
                     }
                 }
             }

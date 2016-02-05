@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:myview="http://schemas.android.com/apk/res-auto"
+    xmlns:myview="http://schemas.android.com/apk/res/com.zhangqing.taji"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:background="#503B66"
     android:orientation="vertical" >
 
-    <com.zhangqing.taji.TopBar
+    <com.zhangqing.taji.view.TopBar
         android:id="@+id/topbar"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="@dimen/topbar_height"
         myview:topposition="0" >
-    </com.zhangqing.taji.TopBar>
+    </com.zhangqing.taji.view.TopBar>
 
     <LinearLayout
         android:layout_width="fill_parent"
@@ -30,11 +30,11 @@
         </LinearLayout>
     </LinearLayout>
 
-    <com.zhangqing.taji.BottomBar
+    <com.zhangqing.taji.view.BottomBar
         android:id="@+id/bottom_bar"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         myview:bottomposition="0" >
-    </com.zhangqing.taji.BottomBar>
+    </com.zhangqing.taji.view.BottomBar>
 
 </LinearLayout>

@@ -7,6 +7,15 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
+* lib\
+* lib\commons-beanutils.jar
+* lib\commons-codec-1.10.jar
+* lib\commons-collections-3.0.jar
+* lib\commons-lang-2.1.jar
+* lib\commons-logging.jar
+* lib\ezmorph-1.0.2.jar
+* lib\json-lib-1.1-jdk13.jar
+* lib\xom-1.0d10.jar
 * proguard.cfg
 
 Replaced Jars with Dependencies:
@@ -29,7 +38,6 @@ Eclipse projects. Here's how the projects were restructured:
 * AndroidManifest.xml => app\src\main\AndroidManifest.xml
 * assets\ => app\src\main\assets
 * libs\AMap_Location_v2.3.0_20160112.jar => app\libs\AMap_Location_v2.3.0_20160112.jar
-* libs\android-support-v4-src.jar => app\libs\android-support-v4-src.jar
 * libs\volly-1.0.11.jar => app\libs\volly-1.0.11.jar
 * res\ => app\src\main\res\
 * src\ => app\src\main\java\

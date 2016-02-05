@@ -1,20 +1,27 @@
 package com.zhangqing.taji;
 
-import com.android.volley.RequestQueue;
-import com.android.volley.Response.ErrorListener;
-import com.android.volley.VolleyError;
-import com.android.volley.toolbox.Volley;
-
 import android.app.Application;
-import android.content.Context;
-import android.widget.Toast;
+
+import com.android.volley.RequestQueue;
+import com.android.volley.toolbox.Volley;
+import com.zhangqing.taji.base.UserClass;
 
 public class MyApplication extends Application {
-	public static RequestQueue requestQueue;
+	private static RequestQueue requestQueue;
+	private static UserClass user;
+	
 
+
+	
 	public static RequestQueue getRequestQeuee() {
 		return requestQueue;
 	}
+	public static UserClass getUser() {
+		return user;
+	}
+
+
+
 	
 
 
@@ -23,5 +30,14 @@ public class MyApplication extends Application {
 		// TODO Auto-generated method stub
 		super.onCreate();
 		requestQueue=Volley.newRequestQueue(getApplicationContext());
+		user=new UserClass(getSharedPreferences("taji", MODE_PRIVATE));
+		
 	}
+
+
+
+
+
+
+	
 }

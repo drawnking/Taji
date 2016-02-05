@@ -17,11 +17,10 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="2dp"
             android:layout_marginTop="2dp"
-            android:background="@color/bgcolor_bar_second" 
-            android:orientation="horizontal"
-            >
-
-            
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp"
+            android:background="@drawable/home_hot_category_bar_bg"
+            android:orientation="horizontal" >
         </LinearLayout>
     </HorizontalScrollView>
 
