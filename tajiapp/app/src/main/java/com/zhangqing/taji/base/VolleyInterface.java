@@ -16,7 +16,6 @@ public abstract class VolleyInterface {
 
 	public VolleyInterface(Context context) {
 		this.context = context;
-
 	}
 
 	public abstract void onMySuccess(JSONObject jsonObject);
@@ -44,7 +43,7 @@ public abstract class VolleyInterface {
 				if (!(jsonObject.getString("status").equals("200"))) {
 					onMyError(new VolleyError(jsonObject.getString("status")
 							+ "错误"));
-					Toast.makeText(context, jsonObject.getString("error"),
+					Toast.makeText(context, jsonObject.getString("msg"),
 							Toast.LENGTH_SHORT).show();
 					return;
 				}

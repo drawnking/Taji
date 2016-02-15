@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <!-- 连框颜色值 -->
 
     <item>
-<shape >
+        <shape>
 
             <solid android:color="#634077" />
 
             <corners android:radius="10dp" />
-        </shape></item>
+        </shape>
+    </item>
 
     <!-- 主体背景颜色值 -->
 
@@ -18,11 +19,12 @@
         android:left="2dp"
         android:right="2dp"
         android:top="2dp">
-<shape >
+        <shape>
 
             <solid android:color="#E1DEE7" />
 
             <corners android:radius="10dp" />
-        </shape></item>
+        </shape>
+    </item>
 
 </layer-list>

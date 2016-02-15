@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_my.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_home_hot_first.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_home_hot_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\my_page.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\my_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_home_hot_first_gridview_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_home_hot_first_gridview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_circle_first_listview_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_circle_first_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\layout_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\layout_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_circle_second.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_circle_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_home_hot_then_listview_item.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_home_hot_then_listview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_second.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\activity_register_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\login_main.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\login_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_publish.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_first.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\activity_register_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\fragment_circle.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\fragment_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_register_third.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\activity_register_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_home_hot_then.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\layout\\view_home_hot_then.xml"
+    }
+]

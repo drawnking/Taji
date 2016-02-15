@@ -4,81 +4,85 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.BitmapShader;
 import android.graphics.Canvas;
-import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.PixelFormat;
 import android.graphics.Shader.TileMode;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
-import android.view.ViewGroup.LayoutParams;
+import android.util.Log;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 public class CircleImageView extends ImageView {
-	private boolean allowedRedraw = true;
-	private Context context;
 
-	public CircleImageView(Context context, AttributeSet attrs) {
-		super(context, attrs);
-		allowedRedraw = true;
-		this.context=context;
-		// TODO Auto-generated constructor stub
-	}
+    private Context context;
+    Paint paint;
+    Drawable lastDrawable;
 
-	public CircleImageView(Context context, AttributeSet attrs, int defStyle) {
-		super(context, attrs, defStyle);
-		allowedRedraw = true;
-		this.context=context;
-		// TODO Auto-generated constructor stub
-	}
+    //当前调用该构造
+    public CircleImageView(Context context, AttributeSet attrs) {
+        super(context, attrs);
+        if (!isInEditMode()) {
+      //      Log.e("circleImageView", "context2 " + this.toString());
+        }
+        this.context = context;
 
-	public CircleImageView(Context context) {
-		super(context);
-		allowedRedraw = true;
-		this.context=context;
-		// TODO Auto-generated constructor stub
-	}
+        // TODO Auto-generated constructor stub
+    }
 
-	@Override
-	protected void onDraw(Canvas canvas) {
-		//super.onDraw(canvas);
-		// setLayoutParams(new LayoutParams(getHeight(), getHeight()));
-		Toast.makeText(context,getParent().toString()+"", Toast.LENGTH_SHORT).show();
-		if (allowedRedraw == false)
-			return;
-		
-		setScaleType(ScaleType.FIT_XY);
-		Drawable drawable = getDrawable();
+    public CircleImageView(Context context, AttributeSet attrs, int defStyle) {
+        super(context, attrs, defStyle);
 
-		if (null == drawable) {
-			return;
-		}
+        Log.e("circleImageView", "context3 " + this.toString());
+        this.context = context;
+        // TODO Auto-generated constructor stub
+    }
 
-		// 将drawable转换成bitmap==>网上找的
-		// Bitmap bitmap = Bitmap
-		// .createBitmap(
-		// drawable.getIntrinsicWidth(),
-		// drawable.getIntrinsicHeight(),
-		// drawable.getOpacity() != PixelFormat.OPAQUE ? Bitmap.Config.ARGB_8888
-		// : Bitmap.Config.RGB_565);
-		//
+    public CircleImageView(Context context) {
+        super(context);
+        Log.e("circleImageView", "context1 " + this.toString());
+        this.context = context;
+        // TODO Auto-generated constructor stub
+    }
 
-		Bitmap bitmap = Bitmap.createBitmap(getHeight(), getHeight(), drawable
-				.getOpacity() != PixelFormat.OPAQUE ? Bitmap.Config.ARGB_8888
-				: Bitmap.Config.RGB_565);
+    @Override
+    protected void onDraw(Canvas canvas) {
+        if (isInEditMode()) {
+            super.onDraw(canvas);
+            return;
+        }
+        //super.onDraw(canvas);
+        // setLayoutParams(new LayoutParams(getHeight(), getHeight()));
+        //Toast.makeText(context,getParent().toString()+"", Toast.LENGTH_SHORT).show();
+//		if (allowedRedraw == false)
+//			return;
+//
+       // Log.e("circleImageView", "onDraw " + this.toString());
+        setScaleType(ScaleType.FIT_XY);
+        Drawable drawable = getDrawable();
 
-		Canvas srcCanvas = new Canvas(bitmap);
+        if (null == drawable) {
+            Log.e("circleImageView", "drawable null " + this.toString());
+            return;
+        }
+      //  Log.e("circleImageView", "start " + this.toString());
 
-		// drawable.setBounds(0, 0, drawable.getIntrinsicWidth(),
-		// drawable.getIntrinsicHeight());
-		drawable.setBounds(0, 0, getHeight(), getHeight());
 
-		drawable.draw(srcCanvas);
+        Bitmap bitmap = Bitmap.createBitmap(getHeight(), getHeight(), drawable
+                .getOpacity() != PixelFormat.OPAQUE ? Bitmap.Config.ARGB_8888
+                : Bitmap.Config.RGB_565);
 
-		float cx = getHeight() / 2;
-		float cy = getHeight() / 2;
+        Canvas srcCanvas = new Canvas(bitmap);
 
-		float radius = getHeight() / 2;
+        // drawable.setBounds(0, 0, drawable.getIntrinsicWidth(),
+        // drawable.getIntrinsicHeight());
+        drawable.setBounds(0, 0, getHeight(), getHeight());
+
+        drawable.draw(srcCanvas);
+
+        float cx = getHeight() / 2;
+        float cy = getHeight() / 2;
+
+        float radius = getHeight() / 2;
 //
 //		Paint borderPaint = new Paint();
 //		borderPaint.setAntiAlias(true);
@@ -86,17 +90,22 @@ public class CircleImageView extends ImageView {
 //
 //		canvas.drawCircle(cx, cy, radius, borderPaint);
 
-		// 画图
-		BitmapShader shader = new BitmapShader(bitmap, TileMode.CLAMP,
-				TileMode.CLAMP);
-		Paint paint = new Paint();
-		paint.setShader(shader);
-		paint.setAntiAlias(true);
+        // 画图
 
-		canvas.drawCircle(cx, cy, radius - 0, paint);
-		allowedRedraw = false;
-		
-		
-	}
+        if (paint == null || !(lastDrawable.equals(drawable))) {
+            Log.e("circleImageView", "rePaint " + this.toString());
+            lastDrawable = drawable;
+            BitmapShader shader = new BitmapShader(bitmap, TileMode.CLAMP,
+                    TileMode.CLAMP);
+            paint = new Paint();
+            paint.setShader(shader);
+            paint.setAntiAlias(true);
+        }
+        canvas.drawCircle(cx, cy, radius - 0, paint);
+
+
+
+    }
+
 
 }

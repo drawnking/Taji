@@ -15,7 +15,6 @@ import android.view.ViewGroup;
 import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.zhangqing.taji.R;
 import com.zhangqing.taji.view.FragmentHomeHotViewFirst;
@@ -32,22 +31,30 @@ public class FragmentHomeHot extends Fragment implements OnClickListener {
 
     int currenCategory = 0;
     List<Category> categoryList;
-    List<TextView> textViewList = new ArrayList<TextView>();
+    List<TextView> textViewList;
     private SwipeRefreshLayout swipeRefreshLayout;
+
+
+    public FragmentHomeHot(){
+        Log.e("FragmentHomeHot","###构造 ");
+        categoryList = getCategoryList();
+    }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.fragement_home, container, false);
-        viewPager = (ViewPager) v.findViewById(R.id.viewpager);
+        Log.e("FragmentHomeHot","onCreateView ");
+        View v = inflater.inflate(R.layout.fragment_home, container, false);
+        viewPager = (ViewPager) v.findViewById(R.id.home_viewpager);
         horizontalScrollView = (HorizontalScrollView) v
-                .findViewById(R.id.horizon_scrollview_category);
+                .findViewById(R.id.home_horizon_scrollview_category);
 
         LinearLayout categoryLayout = (LinearLayout) v
-                .findViewById(R.id.category_title_linearlayout);
+                .findViewById(R.id.home_category_title_linearlayout);
 
-        categoryList = getCategoryList();
 
+        textViewList = new ArrayList<TextView>();
         // init linearLayout
         for (int i = 0; i < categoryList.size(); i++) {
             TextView tempTextView = new TextView(getActivity());
@@ -106,10 +113,10 @@ public class FragmentHomeHot extends Fragment implements OnClickListener {
 
             @Override
             public void onPageSelected(int arg0) {
-
+                Log.e("HomeHot","onPageSelected "+arg0);
                 currenCategory = arg0;
-                Toast.makeText(getActivity(),
-                        arg0 + "|||" + getActivity().toString(), Toast.LENGTH_SHORT).show();
+//                Toast.makeText(getActivity(),
+//                        arg0 + "|||" + getActivity().toString(), Toast.LENGTH_SHORT).show();
                 updateCategoryView();
             }
 
@@ -128,24 +135,18 @@ public class FragmentHomeHot extends Fragment implements OnClickListener {
     }
 
     private List<Category> getCategoryList() {
+        String[] categoryArray = new String[]{"唱歌", "体育", "游戏", "美妆", "搭配", "美甲", "绘画", "艺术", "音乐", "健身", "搞笑", "舞蹈"};
         List<Category> categoryList = new ArrayList<Category>();
-        categoryList.add(new Category(0, "2", "广场2"));
-        categoryList.add(new Category(1, "3", "广场3"));
-        categoryList.add(new Category(2, "4", "广场4"));
-        categoryList.add(new Category(3, "5", "广场5"));
-        categoryList.add(new Category(4, "6", "广场6"));
-        categoryList.add(new Category(5, "7", "广场7"));
-        categoryList.add(new Category(6, "8", "广场8"));
-        categoryList.add(new Category(7, "9", "广场9"));
-        categoryList.add(new Category(8, "10", "广场19"));
-        categoryList.add(new Category(9, "11", "广场29"));
-        categoryList.add(new Category(10, "12", "广场39"));
+        categoryList.add(new Category(0, "0", "广场"));
+        for (int i = 0; i < categoryArray.length; i++) {
+            categoryList.add(new Category(i + 1, i + 1 + "", categoryArray[i]));
+        }
         return categoryList;
 
     }
 
     private void updateCategoryView() {
-
+        Log.e("HomeHot","updateCategoryView size="+textViewList.size()+" currenCategory="+currenCategory);
         for (int i = 0; i < textViewList.size(); i++) {
 
             if (i == currenCategory) {
@@ -161,13 +162,14 @@ public class FragmentHomeHot extends Fragment implements OnClickListener {
                         getActivity().getResources().getColor(
                                 R.color.textcolor_bar_second_unselect));
             }
-            textViewList.get(i).setPadding(20, 15, 20, 15);
+            textViewList.get(i).setPadding(40, 15, 40, 15);
         }
 
-        int textViewLeft = textViewList.get(currenCategory).getLeft();
-        int textViewWidth = textViewList.get(currenCategory).getWidth() + 20;
+        TextView currentTextView = textViewList.get(currenCategory);
+        int textViewLeft = currentTextView.getLeft();
+        int textViewWidth = currentTextView.getWidth();
         if (textViewLeft - horizontalScrollView.getScrollX() < 0) {
-            horizontalScrollView.smoothScrollTo(textViewLeft - 10, 0);
+            horizontalScrollView.smoothScrollTo(textViewLeft, 0);
         } else if (textViewLeft + textViewWidth > horizontalScrollView
                 .getScrollX() + horizontalScrollView.getMeasuredWidth()) {
             horizontalScrollView.smoothScrollTo(textViewLeft + textViewWidth
@@ -223,7 +225,7 @@ class MyPagerAdapter extends PagerAdapter {
 
     @Override
     public void destroyItem(ViewGroup container, int position, Object object) {
-         container.removeView(views.get(position));
+        container.removeView(views.get(position));
     }
 
 }
