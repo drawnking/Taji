@@ -11,6 +11,11 @@
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/base/UserClass.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/base/VolleyInterface.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/base/VolleyRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/emoji/DisplayUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/emoji/EmotionGvAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/emoji/EmotionPagerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/emoji/EmotionUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/emoji/StringUtils.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/util/Md5Util.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/view/BottomBar.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/zhangqing/taji/view/ChildViewPager.java" charset="UTF-8" />

@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\corners_button_white2.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_button_white.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\corners_button_white.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center_button_gradient_rotation.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\center_button_gradient_rotation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_button_white.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\corners_button_white.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_hot_category_bar_bg.xml",
@@ -60,12 +60,12 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\publish_ring.xml"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center_button_gradient.xml",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\center_button_gradient.xml"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.xml",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\center_button_gradient.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable\\center_button_gradient.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\corners_button2.xml",

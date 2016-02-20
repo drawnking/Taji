@@ -13,6 +13,8 @@
     <dimen name="margin_left">20dp</dimen>
     <dimen name="textsize_bar_first">18sp</dimen>
     <dimen name="textsize_bar_second">15sp</dimen>
+    <dimen name="textsize_my_board_number">18sp</dimen>
+    <dimen name="textsize_my_board_text">12sp</dimen>
     <dimen name="home_hot_gridview_text_height">22dp</dimen>
     <dimen name="home_hot_gridview_text_height_twice">44dp</dimen>
 

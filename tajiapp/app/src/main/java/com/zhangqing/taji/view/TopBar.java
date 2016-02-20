@@ -1,7 +1,6 @@
 package com.zhangqing.taji.view;
 
 import android.content.Context;
-import android.content.Intent;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -14,7 +13,6 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.zhangqing.taji.R;
-import com.zhangqing.taji.activities.PublishActivity;
 
 public class TopBar extends LinearLayout implements OnClickListener {
 
@@ -30,11 +28,14 @@ public class TopBar extends LinearLayout implements OnClickListener {
     private TextView textViewCircleTitle;
     private ImageView imgViewCircleSearch;
 
-    //parent=2发布技能上方
 
-    //parent=3 消息上方
+    //parent=2 消息上方
 
-    //parent=4,我的 上方
+    //parent=3,我的 上方
+    private ImageView imageViewMyBlank;
+    private TextView textViewMyTitle;
+    private ImageView imageViewMySetting;
+
 
     private int currentParent = -1;
     private int currentChild = -1;
@@ -147,6 +148,37 @@ public class TopBar extends LinearLayout implements OnClickListener {
                 switchToFragment(context, 4);
                 break;
             case 3:
+                if (textViewMyTitle == null) {
+                    textViewMyTitle = new TextView(context);
+                    textViewMyTitle.setText("个人中心");
+                    textViewMyTitle.setTextColor(getResources().getColor(R.color.textcolor_bar_first_unselect));
+                    textViewMyTitle.setTextSize(20);
+                    textViewMyTitle.setGravity(Gravity.CENTER);
+                }
+
+                if (imageViewMySetting == null) {
+                    imageViewMySetting = new ImageView(context);
+                    imageViewMySetting
+                            .setImageResource(R.drawable.icon_tab_my_titlebar_setting);
+                    setMyTag(imageViewMySetting, "action", "3", "我的设置");
+                    imageViewMySetting.setOnClickListener(this);
+                }
+                if (imageViewMyBlank == null) {
+                    imageViewMyBlank = new ImageView(context);
+                    imageViewMyBlank
+                            .setImageResource(R.drawable.icon_blank_42);
+                }
+                addView(imageViewMyBlank,
+                        getMyLayoutParams(LayoutParams.WRAP_CONTENT,
+                                LayoutParams.WRAP_CONTENT, 0, 20, 20));
+
+                addView(textViewMyTitle, getMyLayoutParams(0, LayoutParams.MATCH_PARENT, 1,
+                        0, 0));
+
+                addView(imageViewMySetting,
+                        getMyLayoutParams(LayoutParams.WRAP_CONTENT,
+                                LayoutParams.WRAP_CONTENT, 0, 20, 20));
+
                 switchToFragment(context, 5);
                 break;
 

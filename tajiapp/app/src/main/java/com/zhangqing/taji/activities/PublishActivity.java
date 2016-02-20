@@ -7,9 +7,11 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
+import android.text.InputType;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.TranslateAnimation;
 import android.view.inputmethod.InputMethodManager;
@@ -19,16 +21,19 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 
 import com.zhangqing.taji.R;
+import com.zhangqing.taji.view.MyEditText;
 import com.zhangqing.taji.view.ResizeLayout;
 
 import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by Administrator on 2016/2/10.
  */
-public class PublishActivity extends Activity {
+public class PublishActivity extends Activity implements View.OnClickListener{
     private static final int BIGGER = 1;
     private static final int SMALLER = 2;
     private static final int MSG_RESIZE = 1;
@@ -82,21 +87,69 @@ public class PublishActivity extends Activity {
     private TranslateAnimation mShowAction;
     private TranslateAnimation mHiddenAction;
 
+    public void disableSoftInputMethod(EditText ed) {
+        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+
+        int currentVersion = android.os.Build.VERSION.SDK_INT;
+        String methodName = null;
+        if (currentVersion >= 16) {
+            // 4.2
+            methodName = "setShowSoftInputOnFocus";
+        } else if (currentVersion >= 14) {
+            // 4.0
+            methodName = "setSoftInputShownOnFocus";
+        }
+
+        if (methodName == null) {
+            ed.setInputType(InputType.TYPE_NULL);
+        } else {
+            Class<EditText> cls = EditText.class;
+            Method setShowSoftInputOnFocus;
+            try {
+                setShowSoftInputOnFocus = cls.getMethod(methodName, boolean.class);
+                setShowSoftInputOnFocus.setAccessible(true);
+                setShowSoftInputOnFocus.invoke(ed, false);
+            } catch (NoSuchMethodException e) {
+                ed.setInputType(InputType.TYPE_NULL);
+                e.printStackTrace();
+            } catch (IllegalAccessException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            } catch (IllegalArgumentException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            } catch (InvocationTargetException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+        }
+    }
+
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
+
         setContentView(R.layout.activity_publish);
 
         scrollView = (ScrollView) findViewById(R.id.publish_scrollview);
         viewPagerFace = (ViewPager) findViewById(R.id.publish_viewpager);
         editText = (EditText) findViewById(R.id.publish_edittext);
 
+        disableSoftInputMethod(editText);
+
+        editText.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            @Override
+            public void onFocusChange(View v, boolean hasFocus) {
+                Log.e("onFocusChange", "z" + hasFocus);
+                onClickEditText(editText);
+            }
+        });
+
         parentViewEdittext = (LinearLayout) findViewById(R.id.publish_parentview_edittext);
         parentViewFaceGrid = (LinearLayout) findViewById(R.id.publish_parentview_facegrid);
         parentViewPublishBtn = (LinearLayout) findViewById(R.id.publish_parentview_publish_btn);
-
-
-
 
 
         pointList = new ArrayList<ImageView>();
@@ -149,10 +202,11 @@ public class PublishActivity extends Activity {
             }
         });
 
-        viewPagerFace.setAdapter(new MyFacePagerAdapter());
+        MyFacePagerAdapter myFacePagerAdapter=new MyFacePagerAdapter(this);
+        //myFacePagerAdapter.setOnClickListener(this);
+        viewPagerFace.setAdapter(myFacePagerAdapter);
+
     }
-
-
 
 
     @Override
@@ -160,7 +214,7 @@ public class PublishActivity extends Activity {
         // TODO Auto-generated method stub
         super.finish();
         //关闭窗体动画显示
-        this.overridePendingTransition(0,R.anim.activity_open_bottom_out);
+        this.overridePendingTransition(0, R.anim.activity_open_bottom_out);
     }
 
     public void onClickBtnFinish(View v) {
@@ -186,7 +240,23 @@ public class PublishActivity extends Activity {
         imm.toggleSoftInput(0, InputMethodManager.HIDE_NOT_ALWAYS);
     }
 
-    private void showFaceGrid(){
+    public void onClickEditText(View v) {
+        Log.e("onClickEditText", "a");
+
+        if (parentViewFaceGrid.getVisibility() == View.GONE) {
+            Log.e("onClickEditText", "requestFocus");
+
+            editText.setFocusableInTouchMode(true);
+            editText.requestFocus();
+            InputMethodManager imm = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+            imm.showSoftInput(editText, 0);
+        } else {
+            Log.e("onClickEditText", "notFocus");
+
+        }
+    }
+
+    private void showFaceGrid() {
         mShowAction = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF,
                 1.0f, Animation.RELATIVE_TO_SELF, 0.0f);
@@ -195,7 +265,7 @@ public class PublishActivity extends Activity {
         parentViewFaceGrid.setVisibility(View.VISIBLE);
     }
 
-    private void hideFaceGrid(){
+    private void hideFaceGrid() {
         mHiddenAction = new TranslateAnimation(Animation.RELATIVE_TO_SELF,
                 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF,
@@ -205,6 +275,13 @@ public class PublishActivity extends Activity {
         parentViewFaceGrid.setVisibility(View.GONE);
     }
 
+    @Override
+    public void onClick(View v) {
+        //Log.e("onClickFace",v.getTag(R.id.tagkey_which)+"|");
+        ((MyEditText)editText).insertDrawable((String) v.getTag(R.id.tagkey_which));
+        Log.e("onClickFace", editText.getText().toString());
+    }
+
 
     class MyFacePagerAdapter extends PagerAdapter {
         private final int ROW_NUM = 3;
@@ -212,8 +289,12 @@ public class PublishActivity extends Activity {
         List<View> mviewList;
         Context mContext;
 
-        public MyFacePagerAdapter() {
+        View.OnClickListener clickListener = null;
+
+
+        public MyFacePagerAdapter(View.OnClickListener listener) {
             this.mContext = PublishActivity.this;
+            this.clickListener=listener;
 
             mviewList = new ArrayList<View>();
 
@@ -250,7 +331,8 @@ public class PublishActivity extends Activity {
                             ImageView iv = new ImageView(mContext);
                             iv.setScaleType(ImageView.ScaleType.CENTER);
                             iv.setImageResource(resourceId);
-
+                            iv.setTag(R.id.tagkey_which,i+"");
+                            iv.setOnClickListener(clickListener);
 
                             rowLayout.addView(iv, new LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.MATCH_PARENT, 1));
                             i++;

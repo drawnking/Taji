@@ -1,19 +1,23 @@
 [
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding4.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding4.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_backstep.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_backstep.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding4.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding4.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_32.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_32.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_20.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_20.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_weiqu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_weiqu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_taikaixin.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_taikaixin.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_36.png",
@@ -24,60 +28,68 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_47.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_hot_comment.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_hot_comment.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_23.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_23.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_9.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_9.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_ding.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_ding.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_titlebar_setting.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_titlebar_setting.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_16.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_16.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_doge.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_doge.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_50.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_50.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_han.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_han.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_ku.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_ku.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_setcover_bg.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_setcover_bg.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_hot_zhuanfa.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_hot_zhuanfa.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_kelian.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_kelian.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_53.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_53.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_35.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_35.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_lei.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_lei.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding6.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding6.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_hot_zhuanfa.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_hot_zhuanfa.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_xu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_xu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_45.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_45.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_nvhaier.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_nvhaier.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_tuzi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_tuzi.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_24.png",
@@ -92,40 +104,192 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_hot_loading2.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_cursor.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_cursor.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_second_back.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_second_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_landelini.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_landelini.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_camera.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_camera.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_lable_tu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_lable_tu.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_weixin_unselect.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_weixin_unselect.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_lable_tu.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_lable_tu.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_20.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_aoteman.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_aoteman.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_hot_comment.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_hot_comment.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_23.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_23.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_zhutou.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_zhutou.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_dahaqi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_dahaqi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_16.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_jiyan.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_jiyan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_haha.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_haha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_35.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_35.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding6.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_qian.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_qian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shengbing.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shengbing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_hehe.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_hehe.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_xiongmao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_xiongmao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_cursor.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_cursor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_dalian.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_dalian.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_2.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_2.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_keai.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_keai.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_location.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_divider.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_touxiao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_touxiao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_avatar_6.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\default_avatar_6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_lable_recycler.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_lable_recycler.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_48.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_48.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shuijiao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shuijiao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_travel.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_travel.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding2.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_qinqin.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_qinqin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_bizui.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_bizui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_chijing.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_chijing.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_first_cha.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_first_cha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_lang.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_lang.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_bishi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_bishi.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_search_normal.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_search_normal.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_center_normal.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_center_normal.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding5.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_center_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_center_normal.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_circle_press.png",
@@ -140,36 +304,12 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_press.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_location.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_location.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_divider.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_divider.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_avatar_6.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\default_avatar_6.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_48.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_48.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_56.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_56.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_55.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_55.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_17.png",
@@ -180,24 +320,20 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_49.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding2.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding2.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_44.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_44.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_39.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_39.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_first_cha.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_first_cha.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_tu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_tu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_kun.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_kun.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_51.png",
@@ -208,12 +344,12 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_34.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_34.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_head_male.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_head_male.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_34.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_34.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_18.png",
@@ -224,8 +360,16 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_weixin_select.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_heixian.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_heixian.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_38.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_38.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_guzhang.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_guzhang.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_circle_normal.png",
@@ -248,12 +392,16 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_sina_unselect.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding3.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding3.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_fangdumianju.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_fangdumianju.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_register_first_inputcha.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_register_first_inputcha.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dialog_loadding3.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_dialog_loadding3.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_41.png",
@@ -262,6 +410,18 @@
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_baibai.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_baibai.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_yiwen.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_yiwen.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_xixi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_xixi.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_37.png",
@@ -288,12 +448,20 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_25.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_blank_42.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_blank_42.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img_login_cartoon1.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\img_login_cartoon1.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_31.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_31.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_youhengheng.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_youhengheng.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_27.png",
@@ -308,6 +476,10 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_face.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_nu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_nu.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
     },
@@ -320,16 +492,112 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_sina_select.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_21.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_21.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_28.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_28.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_21.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_beishang.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_beishang.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_message_normal.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_message_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_delete.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_aini.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_aini.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_30.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_emotion_delete.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\compose_emotion_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_11.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_11.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_lable_favor.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_lable_favor.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_54.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_54.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_8.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_8.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_feizao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_feizao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_huaxin.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_huaxin.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_setcover_btn.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_setcover_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_ganmao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_ganmao.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_head_bg.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_head_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_haixiu.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_haixiu.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goods_loading.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\goods_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shayan.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shayan.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shuai.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shuai.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_normal.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_shitu_unselect.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_shitu_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_heng.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_heng.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_zhuakuang.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_zhuakuang.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_42.png",
@@ -348,10 +616,6 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_3.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_delete.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_delete.png"
-    },
-    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_43.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_43.png"
     },
@@ -360,71 +624,83 @@
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_7.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_30.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_30.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shiwang.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shiwang.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_33.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_33.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_11.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_11.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_yun.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_yun.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_54.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_54.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_zuiyou.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_zuiyou.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_8.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_8.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_lable_shi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_lable_shi.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_setcover_btn.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_setcover_btn.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_shenshou.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_shenshou.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_shitu_select.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_shitu_select.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_head_bg.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_head_bg.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_nanhaier.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_nanhaier.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_wabishi.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_wabishi.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_miao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_miao.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_right_arrow.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_right_arrow.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_home_normal.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_home_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_publish_shitu_unselect.png",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_publish_shitu_unselect.png"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_numa.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_numa.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_52.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_52.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_yinxian.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_yinxian.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tab_my_press.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\icon_tab_my_press.png"
     },
     {
-        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\goods_loading.jpg",
-        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\goods_loading.jpg"
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_zuohengheng.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_zuohengheng.png"
     },
     {
         "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_5.png",
         "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\emoji_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_chanzui.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_chanzui.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_xiaoku.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_xiaoku.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d_sikao.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\tajiapp\\app\\src\\main\\res\\drawable-hdpi\\d_sikao.png"
     }
 ]

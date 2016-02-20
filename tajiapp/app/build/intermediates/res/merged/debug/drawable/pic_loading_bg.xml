@@ -2,10 +2,9 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android"
 
     >
-
     <item>
         <bitmap
-            android:gravity="fill"
+            android:gravity="center"
             android:src="@drawable/icon_tab_home_hot_loading2" />
     </item>
 </layer-list>
